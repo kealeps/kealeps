@@ -13,8 +13,8 @@
 
 Aquí tienes algunos proyectos en los que he trabajado y de los que estoy especialmente orgulloso:
 
-### [Nombre del Proyecto 1](enlace al proyecto)
-- Breve descripción del proyecto.
+### [Spring Boot - Microservices with AWS]([enlace al proyecto](https://github.com/kealeps/spring-boot-aws-forever-free))
+- Una serie de proyectos que he hecho integrando todo lo que me puede ofrecer AWS a Spring Boot.
 - Tecnologías utilizadas: Java, Spring Boot, etc.
 
 ### [Nombre del Proyecto 2](enlace al proyecto)
