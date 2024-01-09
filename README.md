@@ -34,6 +34,6 @@ Aquí tienes algunos proyectos en los que he trabajado y de los que estoy especi
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Siéntete libre de contactarme:
 
 - 📧 Correo electrónico: [mr.kv17.kp@gmail.com]
-- 💼 LinkedIn: [(https://www.linkedin.com/in/kevin-perez-devs/)]
+- 💼 LinkedIn: [https://www.linkedin.com/in/kevin-perez-devs/]
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. ¡Hagamos cosas increíbles juntos! 🚀
