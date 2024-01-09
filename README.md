@@ -1,39 +1,40 @@
-# Bienvenido a mi perfil de GitHub 👋
+# Welcome to my GitHub profile 👋
 
-¡Hola! Soy Kevin, un apasionado desarrollador de software con experiencia en Java y Python. Me encanta crear soluciones innovadoras y eficientes que resuelvan problemas del mundo real. Aquí encontrarás una variedad de proyectos que reflejan mi dedicación y habilidades en el desarrollo de software.
+Hello! I'm Kevin, a passionate software developer with experience in Java and Python. I love creating innovative and efficient solutions to real-world problems. Here you'll find a variety of projects that reflect my dedication and skills in software development.
 
-## Acerca de mí
+## About Me
 
-- 👨‍💻 Desarrollador de software con experiencia en Java y Python.
-- 🎓 Graduado en la Universidad Santa Maria.
-- 🚀 Apasionado por la tecnología y siempre buscando aprender nuevas habilidades.
-- 💡 En constante búsqueda de oportunidades para mejorar y crecer como profesional.
+- 👨‍💻 Software developer with expertise in Java and Python.
+- 🔥 My strongest technologies are Spring Boot and Django frameworks.
+- 🎓 Graduated from Santa Maria University.
+- 🚀 Passionate about technology and always eager to learn new skills.
+- 💡 Constantly seeking opportunities to improve and grow as a professional.
 
-## Proyectos destacados
+## Featured Projects
 
-Aquí tienes algunos proyectos en los que he trabajado y de los que estoy especialmente orgulloso:
+Here are some projects I've worked on and am particularly proud of:
 
-### [Spring Boot - Microservices with AWS]([enlace al proyecto](https://github.com/kealeps/spring-boot-aws-forever-free))
-- Una serie de proyectos que he hecho integrando todo lo que me puede ofrecer AWS a Spring Boot.
-- Tecnologías utilizadas: Java, Spring Boot, etc.
+### [Spring Boot - Microservices with AWS](https://github.com/kealeps/spring-boot-aws-forever-free)
+- A series of projects integrating everything AWS has to offer with Spring Boot.
+- Technologies used: Java, Spring Boot, etc.
 
-### [Nombre del Proyecto 2](enlace al proyecto)
-- Breve descripción del proyecto.
-- Tecnologías utilizadas: Python, Django, etc.
+### [Project Name 2](link to project)
+- Brief description of the project.
+- Technologies used: Python, Django, etc.
 
-## Habilidades y Tecnologías
+## Skills and Technologies
 
 - 💻 Java
 - 🐍 Python
-- 🛢️ Base de datos: MySQL, PostgreSQL, MongoDB
+- 🛢️ Databases: MySQL, PostgreSQL, MongoDB
 - ⚙️ Frameworks: Spring Boot, Django
-- 🚀 Otras tecnologías: Typescript, Javascript, NodeJS
+- 🚀 Other technologies: Typescript, Javascript, NodeJS
 
-## Contacto
+## Contact
 
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Siéntete libre de contactarme:
+I'm always open to new opportunities and collaborations! Feel free to contact me:
 
-- 📧 Correo electrónico: [mr.kv17.kp@gmail.com]
-- 💼 [[LinkedIn]](https://www.linkedin.com/in/kevin-perez-devs/)
+- 📧 [Email](mailto:mr.kv17.kp@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-perez-devs/)
 
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. ¡Hagamos cosas increíbles juntos! 🚀
+Thank you for visiting my profile! I hope you find my projects and contributions interesting. Let's create amazing things together! 🚀
