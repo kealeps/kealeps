@@ -28,6 +28,7 @@ Here are some projects I've worked on and am particularly proud of:
 - 🐍 Python
 - 🛢️ Databases: MySQL, PostgreSQL, MongoDB
 - ⚙️ Frameworks: Spring Boot, Django
+- 💻 Hexagonal architecture
 - 🚀 Other technologies: Typescript, Javascript, NodeJS
 
 ## Contact
