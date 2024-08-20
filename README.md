@@ -18,10 +18,6 @@ Here are some projects I've worked on and am particularly proud of:
 - A series of projects integrating everything AWS has to offer with Spring Boot.
 - Technologies used: Java, Spring Boot, etc.
 
-### [Project Name 2](link to project)
-- Brief description of the project.
-- Technologies used: Python, Django, etc.
-
 ## Skills and Technologies
 
 - 💻 Java
