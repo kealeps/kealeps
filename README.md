@@ -20,7 +20,7 @@ Here are some projects I've worked on and am particularly proud of:
 
 ## Skills and Technologies
 
-- 💻 Java
+- ☕ Java
 - 🐍 Python
 - 🛢️ Databases: MySQL, PostgreSQL, MongoDB
 - ⚙️ Frameworks: Spring Boot, Django
@@ -33,5 +33,6 @@ I'm always open to new opportunities and collaborations! Feel free to contact me
 
 - 📧 [Email](mailto:mr.kv17.kp@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-perez-devs/)
+- ✌ [Portafolio](https://kealeps.github.io/portafolio/)
 
 Thank you for visiting my profile! I hope you find my projects and contributions interesting. Let's create amazing things together! 🚀
